@@ -1,0 +1,44 @@
+﻿.sample {
+  color: violet;
+}
+/*# sourceMappingURL=custom.css.map */
+
+#business {
+/*	background-color: grey;*/
+	margin-top: 100px;
+}
+
+
+
+#business.panel-body {
+	background-color: white;
+}
+
+li.list-group-item:nth-child(even) {
+	background-color: #f5f5f5;
+}
+
+#Business .panel-heading {
+	background-color: #4d4d4d;
+	color: white;
+	line-height: 150%;
+	padding-bottom: 0;
+}
+
+#Projects .panel-heading {
+	
+}
+
+#Business.panel-default {
+	background-color: #f5f5f5;
+	font-size: 12px;
+	margin-top: 10px;
+}
+
+.container.body-content {
+	background-color: #f5f5f5;
+}
+
+.panel-default {
+	border: none;
+}
